@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 02/2-Tablas HTML</title>
+</head>
+<body>
+    <table style="border-collapse:collapse" border="1">
+        <div style="text-align:center;">
+        <tr>
+        <th>Titulo</th>
+        <th>Autor</th>
+        <th>Año de publicacion</th>
+        <th>Enlace Amazon</th>
+        </tr>
+        </div>
+        <div style="text-align:center ;">
+        <tr>
+        <td>Harry Potter y la piedra filosofal</td>
+        <td>J. K. Rowling</td>
+        <td>1980</td>
+        <td>https://www.amazon.es/harry-potter-Libros/s?k=harry+potter&rh=n%3A599364031</td>
+        </tr>
+        <tr>
+        <td>Harry Potter y la camara secreta</td>
+        <td>J. K. Rowling</td>
+        <td>2002</td>
+        <td>https://www.amazon.es/harry-potter-Libros/s?k=harry+potter&rh=n%3A599364031</td> 
+        <tr>
+        <td>Harry Potter y el prisionero de azkaban</td>
+        <td>J. K. Rowling</td>
+        <td>2004</td>
+        <td>https://www.amazon.es/harry-potter-Libros/s?k=harry+potter&rh=n%3A599364031</td> 
+        </tr>   
+        </div>
+        </tr>
+
+    </table>
+</body>
+</html>
